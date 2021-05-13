@@ -1,8 +1,8 @@
-# Awesome WebRequest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Webrequest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome [webrequest snippets](https://webrequest.ml/snippet), resources and shiny things.
 
-* [Awesome WebRequest](#awesome-webrequest)
+* [Awesome Webrequest](#awesome-webrequest)
   * [IFTTT](#ifttt)
   * [Zapier](#zapier)
     * [Timeline](#timeline)

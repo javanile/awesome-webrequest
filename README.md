@@ -36,7 +36,7 @@ A collection of awesome [webrequest snippets](https://webrequest.ml/snippet), re
 
 # Other Awesome Lists
 
-* [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
+* [kairichard/awesome-nocode-lowcode](https://github.com/kairichard/awesome-nocode-lowcode)
 
 # Contributing
 

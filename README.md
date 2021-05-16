@@ -32,7 +32,7 @@ A collection of awesome [webrequest snippets](https://webrequest.ml/snippet), re
 
 # Worth Reading
 
-* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+* [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications.
 
 # Other Awesome Lists
 

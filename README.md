@@ -1,12 +1,14 @@
 # Awesome Webrequest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome [webrequest snippets](https://webrequest.ml/snippet), resources and shiny things.
+A collection of awesome [webrequest snippets](https://javanile-webrequest.herokuapp.com/javanile/webrequest-utils/snippet), resources and shiny things.
 
 * [Awesome Webrequest](#awesome-webrequest)
   * [IFTTT](#ifttt)
   * [Zapier](#zapier)
-    * [Timeline](#timeline)
-    * [Spreadsheet](#spreadsheet)  
+    * [Timeline](#zapier-timeline)
+    * [Spreadsheet](#zapier-spreadsheet)  
+  * [Chrome Extensions](#chrome-extensions)
+    * [IFTTT](#chrome-extensions-ifttt)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
@@ -25,7 +27,14 @@ A collection of awesome [webrequest snippets](https://webrequest.ml/snippet), re
 * [mocha](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 * [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
 
-### Spreadsheet
+### Zapier Spreadsheet
+
+* [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
+* [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+
+## Chrome Extensions
+
+### IFTTT (Chrome Extensions)
 
 * [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 * [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
